@@ -1,18 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : ali_exam
- Source Server Type    : MySQL
- Source Server Version : 50727
- Source Host           : 47.107.78.99:3306
- Source Schema         : exam
-
- Target Server Type    : MySQL
- Target Server Version : 50727
- File Encoding         : 65001
-
- Date: 06/09/2019 17:37:57
-*/
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
