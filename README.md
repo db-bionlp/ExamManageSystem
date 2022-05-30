@@ -40,7 +40,18 @@
 * 我的分数
 * 留言功能
 
-  
+ ## 内容示例
+  ![image](img/编辑试卷信息.png)
+  ![image](img/答题模块.png)
+  ![image](img/登录.png)
+  ![image](img/后台管理.png)
+  ![image](img/回复留言模块.png)
+  ![image](img/考试查询.png)
+  ![image](img/练习模式.png)
+  ![image](img/添加考试.png)
+  ![image](img/删除试卷.png)
+  ![image](img/提前交卷.png)
+  ![image](img/添加试题.png)
   
   
   
